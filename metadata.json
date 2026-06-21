@@ -1,0 +1,6 @@
+{
+  "name": "Mairie de Libreville",
+  "description": "Portail numérique officiel de la Mairie de Libreville (Hôtel de Ville). Démarches administratives d'état civil et d'urbanisme en ligne sécurisées pour tous les citoyens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
